@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "glory-mono",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": ["**/camouflage", "**/camouflage/**", "**/glory", "**/glory/**"]
+  },
+  "bolt": {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  "scripts": {},
+  "devDependencies": {
+
+  }
+}

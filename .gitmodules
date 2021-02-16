@@ -1,0 +1,3 @@
+[submodule "packages/camouflage"]
+	path = packages/camouflage
+	url = https://github.com/winston0410/camouflage.git
